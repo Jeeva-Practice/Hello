@@ -1,0 +1,7 @@
+num1=int(input("Enter num 1 : "))
+num2=int(input("Enter num 2 : "))
+print("Sum if num 1 and 2 is ",num1+num2)
+print("Sub if num 1 and 2 is ",num1-num2)
+print("Mul if num 1 and 2 is ",num1*num2)
+print("Div num 1 and 2 is ",num1/num2)
+print("Mod num 1 and 2 is ",num1%num2)
